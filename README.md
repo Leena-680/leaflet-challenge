@@ -1,5 +1,6 @@
 ## About
-The purpose of this project is to create interactive visualization using javascript library leaflet.
+The purpose of this project is to create interactive visualization using javascript library leaflet.  
+The dataset contains information of the earthquakes. This visualizations plots the earthquake epicenters on world map.
  
 ## Files Included in the repository
 * index.html - This is the placeholder HTML page
